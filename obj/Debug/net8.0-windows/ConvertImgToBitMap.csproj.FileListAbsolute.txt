@@ -1,0 +1,16 @@
+D:\ConvertImgToBitMap\ConvertImgToBitMap\bin\Debug\net8.0-windows\ConvertImgToBitMap.exe
+D:\ConvertImgToBitMap\ConvertImgToBitMap\bin\Debug\net8.0-windows\ConvertImgToBitMap.deps.json
+D:\ConvertImgToBitMap\ConvertImgToBitMap\bin\Debug\net8.0-windows\ConvertImgToBitMap.runtimeconfig.json
+D:\ConvertImgToBitMap\ConvertImgToBitMap\bin\Debug\net8.0-windows\ConvertImgToBitMap.dll
+D:\ConvertImgToBitMap\ConvertImgToBitMap\bin\Debug\net8.0-windows\ConvertImgToBitMap.pdb
+D:\ConvertImgToBitMap\ConvertImgToBitMap\obj\Debug\net8.0-windows\ConvertImgToBitMap.Form1.resources
+D:\ConvertImgToBitMap\ConvertImgToBitMap\obj\Debug\net8.0-windows\ConvertImgToBitMap.csproj.GenerateResource.cache
+D:\ConvertImgToBitMap\ConvertImgToBitMap\obj\Debug\net8.0-windows\ConvertImgToBitMap.GeneratedMSBuildEditorConfig.editorconfig
+D:\ConvertImgToBitMap\ConvertImgToBitMap\obj\Debug\net8.0-windows\ConvertImgToBitMap.AssemblyInfoInputs.cache
+D:\ConvertImgToBitMap\ConvertImgToBitMap\obj\Debug\net8.0-windows\ConvertImgToBitMap.AssemblyInfo.cs
+D:\ConvertImgToBitMap\ConvertImgToBitMap\obj\Debug\net8.0-windows\ConvertImgToBitMap.csproj.CoreCompileInputs.cache
+D:\ConvertImgToBitMap\ConvertImgToBitMap\obj\Debug\net8.0-windows\ConvertImgToBitMap.dll
+D:\ConvertImgToBitMap\ConvertImgToBitMap\obj\Debug\net8.0-windows\refint\ConvertImgToBitMap.dll
+D:\ConvertImgToBitMap\ConvertImgToBitMap\obj\Debug\net8.0-windows\ConvertImgToBitMap.pdb
+D:\ConvertImgToBitMap\ConvertImgToBitMap\obj\Debug\net8.0-windows\ConvertImgToBitMap.genruntimeconfig.cache
+D:\ConvertImgToBitMap\ConvertImgToBitMap\obj\Debug\net8.0-windows\ref\ConvertImgToBitMap.dll
